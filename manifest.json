@@ -12,6 +12,7 @@
 
   "browser-specific-settings": {
     "gecko": {
+      "id": "8539a978-a3a9-470f-8d52-c9306d71eb37",
       "update_url": "https://raw.githubusercontent.com/uoe-dlam/people-and-money-days/main/updates.json"
     }
   }
