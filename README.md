@@ -7,8 +7,7 @@ It takes your total number of hours for leave and divides the total by 7 to show
 ## Installation
 
 The latest version of this plugin can be downloaded from our releases page. Simply download the 
-xpi file to your machine, and open it with Firefox by double 
-clicking on the file. 
+xpi file to your machine, and open it with Firefox by double-clicking on the file. 
 
 Firefox will then prompt you on the installation steps.
 
