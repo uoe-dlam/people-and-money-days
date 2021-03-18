@@ -14,7 +14,7 @@ function updateAbsenceBalance() {
     // check if the next element match contains the word "Hours"
     if (tdSpans[i + 1].textContent.trim() === "Hours") {
       // convert hours to days
-      tdSpans[i].innerHTML = convertToDays(tdSpans[i].textContent);
+      tdSpans[i].textContent = convertToDays(tdSpans[i].textContent);
 
       // convert the word "Hours" to "Days"
       tdSpans[i + 1].innerHTML = "&nbsp;Days";

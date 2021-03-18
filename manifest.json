@@ -8,5 +8,11 @@
       "matches": ["https://elxw.fa.em3.oraclecloud.com/*"],
       "js": ["convert-to-days.js"]
     }
-  ]
+  ],
+
+  "browser-specific-settings": {
+    "gecko": {
+      "update_url": "https://github.com/uoe-dlam/people-and-money/updates.json"
+    }
+  }
 }
